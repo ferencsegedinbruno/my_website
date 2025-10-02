@@ -1,0 +1,57 @@
+---
+title: "CV"
+---
+
+## Education  
+- **PhD in Linguistics**, Brown University (2021–Present)  
+- **MA in Linguistics**, UC Davis (2019–2021)  
+- **BA in Linguistics**, University of California, Davis (2015–2019) — Highest Honors  
+- **BA in English Literature**, University of California, Davis (2015–2019) — Highest Honors  
+
+## Papers & Publications  
+
+### Journal Articles  
+- Cohn, M., **Ferenc Segedin, B.**, & Zellou, G. (2022). Acoustic-phonetic properties of Siri- and human-directed speech. *Journal of Phonetics, 90*, 101123.  
+- Zellou, G., Cohn, M., & **Ferenc Segedin, B.** (2021). Age- and gender-related differences in speech alignment toward humans and voice-AI. *Frontiers in Communication, 5*, 600361.  
+- Zellou, G., Barreda, S., & **Ferenc Segedin, B.** (2020). Partial perceptual compensation for nasal coarticulation is robust to fundamental frequency variation. *The Journal of the Acoustical Society of America, 147*(3), EL271–EL276.  
+
+### Conference Proceedings  
+- **Ferenc Segedin, B.** (2025). Sub-phonemic featural dimensions mediate consonantal co-occurrence biases in a cross-linguistically consistent manner. In *Proceedings of the Annual Meeting of the Cognitive Science Society, 47*.  
+- Cohn, M., **Ferenc Segedin, B.**, & Zellou, G. (2019). Imitating Siri: Socially-mediated vocal alignment to device and human voices. In *Proceedings of the 19th International Congress of Phonetic Sciences (ICPhS 19)*.  
+- **Ferenc Segedin, B.**, Cohn, M., & Zellou, G. (2019). Perceptual adaptation to device and human voices: Learning and generalization of a phonetic shift across real and voice-AI talkers. In *Proceedings of Interspeech 2019* (pp. 2310–2314).  
+- Zellou, G., & **Ferenc Segedin, B.** (2019). The distribution of coarticulatory variation influences perceptual adaptation. In *Proceedings of the 19th International Congress of Phonetic Sciences (ICPhS 19)*.  
+
+### Preprints & In Prep. 
+- **Ferenc Segedin, B.** (2025). A technique for isolating lexically-independent phonetic dependencies in generative CNNs. *arXiv preprint*.  
+- **Ferenc Segedin, B.**, & Beguš, G. (2025). Exploring the encoding of linguistic representations in the Fully-Connected Layer of generative CNNs for speech. *arXiv preprint arXiv:2501.07726*.  
+
+## Presentations  
+
+### Talks  
+- **Ferenc Segedin, B.** (2026, January). *Investigating the extent of positional biases in bowel co-occurrence dependencies across languages.* Accepted for presentation at the 100th Annual Meeting of the Linguistic Society of America (LSA), New Orleans, LA.
+
+- **Ferenc Segedin, B.** (2025). *Evaluating Wasserstein GAN discriminators as models of human well-formedness judgments.* Talk presented at the AMP 2025 Special Session on Deep Phonology, University of California, Berkeley.
+
+- **Ferenc Segedin, B.** (2025). *Sub-phonemic featural dimensions mediate consonantal co-occurrence biases in a cross-linguistically consistent manner.* Talk presented at the 47th Annual Meeting of the Cognitive Science Society (CogSci 2025).
+
+
+### Posters  
+- **Ferenc Segedin, B.** (2024). *Cross-linguistic evidence for a segmental identity bias in vowel-vowel co-occurrence patterns.* Poster presented at the 98th Annual Meeting of the Linguistic Society of America (LSA), New York City, USA.
+
+- **Ferenc Segedin, B.**, Cohn, M., & Zellou, G. (2019). *Perceptual adaptation to device and human voices: Learning and generalization of a phonetic shift across real and voice-AI talkers.* Poster presented at Interspeech 2019, Graz, Austria.
+
+
+### Tutorials / Workshops / Other  
+- Chen, J., Zhou, A., Ray Barman, S., Beguš, G., & **Ferenc Segedin, B.** (2025). *Deep Language Learning: Modeling language from raw speech (Part 1).* Tutorial presented at the 99th Annual Meeting of the Linguistic Society of America (LSA), New York City, NY, January 10.
+  
+
+## Skills  
+- Programming: Python, R, SQL  
+
+## Languages  
+- English (Fluent)  
+- Croatian (Fluent)  
+- French (Reading Proficiency)  
+
+
+

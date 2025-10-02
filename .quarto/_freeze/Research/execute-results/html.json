@@ -1,0 +1,14 @@
+{
+  "hash": "46f292f5449cd3de2c1423a2cfb82cde",
+  "result": {
+    "markdown": "---\ntitle: \"Research & Projects\"\n---\n\n\n## The communicative role of phonetic and phonological patterns\nMy dissertation work focuses on assessing whether the phonemic composition of lexicons is predicted by information-theoretic pressures like the need to communicate unambiguous signals. The composition of lexicons is both arbitrary but also guided by categorical and statistical restrictions on sound co-occurrence. I use tools like Bayesian regression modeling to answer: is the the distribution of sounds in the world's lexicon predicted by usage-based or communicative pressures? Are non-local dependencies between sounds like vowel harmony facilitate the communicative utility of lexicons? \n\n\n::: {.cell}\n\n:::\n\n\n## Representations of Speech Sounds in Humans and Neural Networks\nI am also interested in how invariant representations emerge to begin with. One of the main advantages of neural networks for language modeling is their capacity to compress highly variable data in non-linear ways, yielding categorical or discrete-like units. They also make no assumptions about intermediate representations. However, even relatively simple architectures are black boxes, and their correspondence to linguistic phenomena is often ill-defined. I am interested in whether the generalizations characteristic of human phonetics nd phonological knowledge emerge from training on raw data. \n\n\n::: {.cell}\n\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

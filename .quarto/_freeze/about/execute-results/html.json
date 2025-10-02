@@ -1,0 +1,14 @@
+{
+  "hash": "4ebf03660b5416a1c71d0b2ff2617eda",
+  "result": {
+    "markdown": "---\ntitle: \"Research Questions\"\n---\n\n\n# Segmental Co-occurrence biases\n\n## Vowels \n\nThe availability of phonologically-transcribed lexicons has made it possible to explore robustly model universal trends in the world's languages.\n\n\n::: {.cell}\n\n:::\n\n\n\n# Neural Network Interpretability and Phonetics and Phonological\n\n## The fully-connected layer vs convolutional layer in Generative CNNs. \n\nModeling phonological acquisition using GANs. The WaveGAN generator has a relatively simple and small architecture that is useful for model interpretability. \n\n\n::: {.cell}\n\n:::\n\n\nLatent variables encode lexical items in their FC weight matrices. \n\n\nThe FC-layer can be thought of as a feature map factory that produces feature maps to then be interpreted by temporally-constrained convolutional layers. \n\nThe division of labor between \n\n\n\n\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
