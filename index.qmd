@@ -8,10 +8,10 @@ title: "About Me"
 
 Hi! I am a PhD student in Linguistics at Brown University. I am part of the depertment of Cognitve and Psychological Sciences (CoPsy), and the Program in Linguistics, where I am advised by Uriel Cohen Priva. 
 
-Broadly, I am interested in how communicative, phonetic and learning pressures shape languages' sound systems, and I primarily use corpus data and computational modeling to address questions related this issue. (In other words, "why do languages sound the way they do, and why do they change in the directions that they do?") My dissertation research focuses on quantifying and explaining the extent of nonlocal dependencies between segments (like vowel harmony) across the world's languages. 
+Broadly, I am interested in how communicative, phonetic and learning pressures shape languages' sound systems (in other words, "why do they change in the directions that they do?") and at the moment I primarily use corpus data and computational modeling to address questions related this issue. My dissertation research focuses on quantifying and explaining the extent of nonlocal dependencies between segments (like vowel harmony) across the world's languages. 
 
-I have a parallel but related interested in deep learning interpretability, particularly as it relates to modeling the learned mapping from unlabeled acoustics to abstract phonological representations. Some of my current research focuses on testing whether inducitve biases or information bottlenecks in neural network architectures can facilitate human-like phonological generalizations from acoustic data. 
+I also have an interest in deep learning interpretability, particularly as it relates to modeling the learned mapping from unlabeled acoustics to more abstract representations of speech like phonemes. Some of my current research explores whether information bottlenecks in neural network architectures can facilitate human-like phonological generalizations from acoustic data. 
 
-Feel free to reach out with any questions! 
+Feel free to reach out with any questions! :)
 
 - Email: [bruno_ferenc_segedin@brown.edu](mailto:bruno_ferenc_segedin@brown.edu)
