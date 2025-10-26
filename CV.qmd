@@ -3,14 +3,15 @@ title: "CV"
 ---
 
 ## Education  
-- **PhD in Linguistics**, Brown University (2021–Present)  
+- **PhD in Linguistics**, Brown University (In progress, 2021–Present)  
 - **MA in Linguistics**, UC Davis (2019–2021)  
-- **BA in Linguistics**, University of California, Davis (2015–2019) — Highest Honors  
-- **BA in English Literature**, University of California, Davis (2015–2019) — Highest Honors  
+- **BA in Linguistics**, University of California, Davis (2015–2019) — With Highest Honors  
+- **BA in English Literature**, University of California, Davis (2015–2019) — With Highest Honors  
 
 ## Papers & Publications  
 
 ### Journal Articles  
+- **Ferenc Segedin, B.**, & Cohen Priva, U. A large-scale investigation of vowel co-occurrence patterns in the world's lexicons (Under Revision). 
 - Cohn, M., **Ferenc Segedin, B.**, & Zellou, G. (2022). Acoustic-phonetic properties of Siri- and human-directed speech. *Journal of Phonetics, 90*, 101123.  
 - Zellou, G., Cohn, M., & **Ferenc Segedin, B.** (2021). Age- and gender-related differences in speech alignment toward humans and voice-AI. *Frontiers in Communication, 5*, 600361.  
 - Zellou, G., Barreda, S., & **Ferenc Segedin, B.** (2020). Partial perceptual compensation for nasal coarticulation is robust to fundamental frequency variation. *The Journal of the Acoustical Society of America, 147*(3), EL271–EL276.  

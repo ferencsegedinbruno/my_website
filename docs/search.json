@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "CV",
+    "section": "",
+    "text": "PhD in Linguistics, Brown University (In progress, 2021–Present)\n\nMA in Linguistics, UC Davis (2019–2021)\n\nBA in Linguistics, University of California, Davis (2015–2019) — With Highest Honors\n\nBA in English Literature, University of California, Davis (2015–2019) — With Highest Honors"
+  },
+  {
+    "objectID": "CV.html#education",
+    "href": "CV.html#education",
+    "title": "CV",
+    "section": "",
+    "text": "PhD in Linguistics, Brown University (In progress, 2021–Present)\n\nMA in Linguistics, UC Davis (2019–2021)\n\nBA in Linguistics, University of California, Davis (2015–2019) — With Highest Honors\n\nBA in English Literature, University of California, Davis (2015–2019) — With Highest Honors"
+  },
+  {
+    "objectID": "CV.html#papers-publications",
+    "href": "CV.html#papers-publications",
+    "title": "CV",
+    "section": "Papers & Publications",
+    "text": "Papers & Publications\n\nJournal Articles\n\nFerenc Segedin, B., & Cohen Priva, U. A large-scale investigation of vowel co-occurrence patterns in the world’s lexicons (Under Revision).\nCohn, M., Ferenc Segedin, B., & Zellou, G. (2022). Acoustic-phonetic properties of Siri- and human-directed speech. Journal of Phonetics, 90, 101123.\n\nZellou, G., Cohn, M., & Ferenc Segedin, B. (2021). Age- and gender-related differences in speech alignment toward humans and voice-AI. Frontiers in Communication, 5, 600361.\n\nZellou, G., Barreda, S., & Ferenc Segedin, B. (2020). Partial perceptual compensation for nasal coarticulation is robust to fundamental frequency variation. The Journal of the Acoustical Society of America, 147(3), EL271–EL276.\n\n\n\nConference Proceedings\n\nFerenc Segedin, B. (2025). Sub-phonemic featural dimensions mediate consonantal co-occurrence biases in a cross-linguistically consistent manner. In Proceedings of the Annual Meeting of the Cognitive Science Society, 47.\n\nCohn, M., Ferenc Segedin, B., & Zellou, G. (2019). Imitating Siri: Socially-mediated vocal alignment to device and human voices. In Proceedings of the 19th International Congress of Phonetic Sciences (ICPhS 19).\n\nFerenc Segedin, B., Cohn, M., & Zellou, G. (2019). Perceptual adaptation to device and human voices: Learning and generalization of a phonetic shift across real and voice-AI talkers. In Proceedings of Interspeech 2019 (pp. 2310–2314).\n\nZellou, G., & Ferenc Segedin, B. (2019). The distribution of coarticulatory variation influences perceptual adaptation. In Proceedings of the 19th International Congress of Phonetic Sciences (ICPhS 19).\n\n\n\nPreprints & In Prep.\n\nFerenc Segedin, B. (2025). A technique for isolating lexically-independent phonetic dependencies in generative CNNs. arXiv preprint.\n\nFerenc Segedin, B., & Beguš, G. (2025). Exploring the encoding of linguistic representations in the Fully-Connected Layer of generative CNNs for speech. arXiv preprint arXiv:2501.07726."
+  },
+  {
+    "objectID": "CV.html#presentations",
+    "href": "CV.html#presentations",
+    "title": "CV",
+    "section": "Presentations",
+    "text": "Presentations\n\nTalks\n\nFerenc Segedin, B. (2026, January). Investigating the extent of positional biases in bowel co-occurrence dependencies across languages. Accepted for presentation at the 100th Annual Meeting of the Linguistic Society of America (LSA), New Orleans, LA.\nFerenc Segedin, B. (2025). Evaluating Wasserstein GAN discriminators as models of human well-formedness judgments. Talk presented at the AMP 2025 Special Session on Deep Phonology, University of California, Berkeley.\nFerenc Segedin, B. (2025). Sub-phonemic featural dimensions mediate consonantal co-occurrence biases in a cross-linguistically consistent manner. Talk presented at the 47th Annual Meeting of the Cognitive Science Society (CogSci 2025).\n\n\n\nPosters\n\nFerenc Segedin, B. (2024). Cross-linguistic evidence for a segmental identity bias in vowel-vowel co-occurrence patterns. Poster presented at the 98th Annual Meeting of the Linguistic Society of America (LSA), New York City, USA.\nFerenc Segedin, B., Cohn, M., & Zellou, G. (2019). Perceptual adaptation to device and human voices: Learning and generalization of a phonetic shift across real and voice-AI talkers. Poster presented at Interspeech 2019, Graz, Austria.\n\n\n\nTutorials / Workshops / Other\n\nChen, J., Zhou, A., Ray Barman, S., Beguš, G., & Ferenc Segedin, B. (2025). Deep Language Learning: Modeling language from raw speech (Part 1). Tutorial presented at the 99th Annual Meeting of the Linguistic Society of America (LSA), New York City, NY, January 10."
+  },
+  {
+    "objectID": "CV.html#skills",
+    "href": "CV.html#skills",
+    "title": "CV",
+    "section": "Skills",
+    "text": "Skills\n\nProgramming: Python, R, SQL"
+  },
+  {
+    "objectID": "CV.html#languages",
+    "href": "CV.html#languages",
+    "title": "CV",
+    "section": "Languages",
+    "text": "Languages\n\nEnglish (Fluent)\n\nCroatian (Fluent)\n\nFrench (Reading Proficiency)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hi! I am a PhD student in Linguistics at Brown University. I am part of the depertment of Cognitve and Psychological Sciences (CoPsy), and the Program in Linguistics, where I am advised by Uriel Cohen Priva.\nBroadly, I am interested in how communicative, phonetic and learning pressures shape languages’ sound systems, and I primarily use corpus data and computational modeling to address questions related this issue. (In other words, “why do languages sound the way they do, and why do they change in the directions that they do?”) My dissertation research focuses on quantifying and explaining the extent of nonlocal dependencies between segments (like vowel harmony) across the world’s languages.\nI have a parallel but related interested in deep learning interpretability, particularly as it relates to modeling the learned mapping from unlabeled acoustics to abstract phonological representations. Some of my current research focuses on testing whether inducitve biases or information bottlenecks in neural network architectures can facilitate human-like phonological generalizations from acoustic data.\nFeel free to reach out with any questions!\n\nEmail: bruno_ferenc_segedin@brown.edu"
+  }
+]

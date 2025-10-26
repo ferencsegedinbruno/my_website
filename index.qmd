@@ -2,18 +2,16 @@
 title: "About Me"
 ---
 <div style="text-align: center;">
-  <img src="my_portrait.jpg" alt="My portrait" width="100" style="border-radius: 50%;">
+  <img src="headshot.jpg" alt="My portrait" width="100" style="border-radius: 100%;">
 </div>
 
 
-Hi! I am a PhD student in Linguistics at Brown University. I am part of the Cognitve and Psychological Sciences (CoPsy), and the Program in Linguistics, where I am advised by Uriel Cohen Priva. 
+Hi! I am a PhD student in Linguistics at Brown University. I am part of the depertment of Cognitve and Psychological Sciences (CoPsy), and the Program in Linguistics, where I am advised by Uriel Cohen Priva. 
 
-Broadly, I am interested in how communicative, phonetic and learning pressures shape languages' phonological systems, and I primarily use corpus data and computational modeling to address questions related this issue. My dissertation research focuses on quantifying and explaining the extent of nonlocal dependencies between segments across the world's languages. 
+Broadly, I am interested in how communicative, phonetic and learning pressures shape languages' sound systems, and I primarily use corpus data and computational modeling to address questions related this issue. (In other words, "why do languages sound the way they do, and why do they change in the directions that they do?") My dissertation research focuses on quantifying and explaining the extent of nonlocal dependencies between segments (like vowel harmony) across the world's languages. 
 
-I have a parallel interest in deep learning interpretability, particularly as it relates to modeling the mapping from phonetic/acoustic to phonological representations. Some of my recent work focuses on whether phonological generalizations can be inferred from raw speech data and in particular whether information bottlenecks in deep learning architectures can yield human-like phonological generalizations.
+I have a parallel but related interested in deep learning interpretability, particularly as it relates to modeling the learned mapping from unlabeled acoustics to abstract phonological representations. Some of my current research focuses on testing whether inducitve biases or information bottlenecks in neural network architectures can facilitate human-like phonological generalizations from acoustic data. 
 
 Feel free to reach out with any questions! 
 
-## Contact
 - Email: [bruno_ferenc_segedin@brown.edu](mailto:bruno_ferenc_segedin@brown.edu)
-- GitHub: [ferencsegedinbruno](https://github.com/ferencsegedinbruno)

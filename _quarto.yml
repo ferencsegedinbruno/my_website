@@ -1,20 +1,22 @@
 project:
   type: website
+  output-dir: docs     # this is where Quarto will render HTML for GitHub Pages
 
 website:
-  title: "Bruno Ferenc Segedin"
+  title: "Bruno Ferenc Šegedin"
   navbar:
-    left:
-      - text: Home
-        href: index.qmd
-      - text: CV
-        href: cv.qmd
+    logo: headshot.jpg   # optional – or "my_portrait.jpg" if you prefer
     right:
-      - icon: github
-        href: https://github.com/ferencsegedinbruno
+      - text: "Home"
+        href: index.html
+      - text: "CV"
+        href: CV.html
+
 format:
   html:
+    theme: flatly        # or "default" if you prefer the plain style
     css: styles.css
+    toc: false           # toggle to true if you want table of contents on side
 
-
-site-url: https://ferencsegedinbruno.github.io/<your-repo>/
+execute:
+  freeze: auto           # caches results so future renders are faster
